@@ -1,0 +1,2 @@
+# JobPortalSQL
+A SQL project
